@@ -1,0 +1,9 @@
+.hero{
+    background-image: url(../imgs/jay-wennington-N_Y88TWmGwA-unsplash.jpg);
+    height: 400px;;
+    width: 100%;
+}
+.footer{
+background-color: gray;
+height: 100px;
+}
